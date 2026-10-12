@@ -1,6 +1,8 @@
 ### Hi, OakChaser here.
 
-🏠 [Homepage](https://oakchaser.me)
+🏠 [Homepage](https://oakchaser.me) | 
+📚 [Blog](https://blog.oakchaser.me) | 
+🐦 [X](https://x.com/nya_oakchaser)
 
 #### Work in progress
 
