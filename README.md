@@ -2,7 +2,8 @@
 
 🏠 [Homepage](https://oakchaser.me) | 
 📚 [Blog](https://blog.oakchaser.me) | 
-🐦 [X](https://x.com/nya_oakchaser)
+🐦 [X](https://x.com/nya_oakchaser) |
+⏰ [WakaTime](https://oakchaser.me/#wakatime)
 
 #### Work in progress
 
