@@ -1,8 +1,22 @@
-### Hi, OakChaser here.
+## Hi, OakChaser here.
 
-🏠 [Homepage](https://oakchaser.me) | 
-📚 [Blog](https://blog.oakchaser.me) | 
-🐦 [X](https://x.com/nya_oakchaser) |
-⏰ [WakaTime](https://oakchaser.me/#wakatime)
+> 📝 [Blog](https://blog.oakchaser.me) · 👥 [Friends](#friends) · 📦 [Repos](#repos) · ⏱ [Wakatime](#wakatime)
 
-For more details, please view my [homepage](https://oakchaser.me)
+Contact me: <nya@oakchaser.me>
+
+### As a student
+
+I'm currently an undergraduate at Hunan University studying computer science.
+
+I also help out on [qnxg](https://github.com/qnxg), where I maintain Weihuda, a WeChat Mini Program for HNU.
+
+### As a piano hobbyist
+
+Music helps me shake off a bad mood. I'm working through [Animenz's piano arrangements](https://www.youtube.com/@Animenzzz), which are a great blend of classical and anime music.
+
+### As a Minecraft player
+
+Recently, I’ve been mainly active in HMO, a Minecraft club at Hunan University.
+
+I’m also currently maintaining [Conic Launcher](https://conicmc.app), a Minecraft launcher with a unique design.
+
