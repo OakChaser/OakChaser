@@ -16,7 +16,7 @@ Music helps me shake off a bad mood. I'm working through [Animenz's piano arrang
 
 ### As a Minecraft player
 
-Recently, I’ve been mainly active in HMO, a Minecraft club at Hunan University.
+Recently, I’ve been mainly active in [HMO](https://hmomc.cn), a Minecraft club at Hunan University.
 
 I’m also currently maintaining [Conic Launcher](https://conicmc.app), a Minecraft launcher with a unique design.
 
