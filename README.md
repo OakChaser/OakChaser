@@ -1,6 +1,6 @@
 ## Hi, OakChaser here.
 
-> 📝 [Blog](https://blog.oakchaser.me) · 👥 [Friends](#friends) · 📦 [Repos](#repos) · ⏱ [Wakatime](#wakatime)
+> 🏠 [Home](https://oakchaser.me) · 📝 [Blog](https://blog.oakchaser.me) · 👥 [Friends](#friends) · 📦 [Repos](#repos) · ⏱ [Wakatime](#wakatime)
 
 Contact me: <nya@oakchaser.me>
 
